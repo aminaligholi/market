@@ -1,0 +1,20 @@
+{
+  "name": "handling_data_in_nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "animate.css": "^4.1.1",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "shabnam-font": "^5.0.0",
+    "vazir-font": "^26.0.2"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,10 @@
+/*vazir font */
+@import '@/node_modules/vazir-font/dist/font-face.css';/*font-family: 'Vazir', sans-serif;*/
+
+/*sabnam font*/
+@import '@/node_modules/shabnam-font/dist/font-face.css'; /*font-family: 'Shabnam', sans-serif;*/
+
+@font-face {
+    font-family: 'sim_khar';
+    src: url('~assets/font/FP-sim-khardar/FP-sim-khardar.ttf');
+}

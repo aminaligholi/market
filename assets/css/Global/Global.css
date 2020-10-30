@@ -1,0 +1,13 @@
+.container-fluid-1 {
+    max-width: 1200px;
+    justify-content: center;
+    margin: 5px auto 0px;
+}
+
+.vazir {
+    font-family: 'Vazir';
+}
+
+.shabnam {
+    font-family: 'Shabnam';
+}

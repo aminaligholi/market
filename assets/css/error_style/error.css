@@ -1,0 +1,16 @@
+#d5 {
+    height: 400px;
+}
+
+h1 {
+    font-family: 'sim_khar', sans-serif;
+    font-weight: 700;
+}
+
+#backlink {
+    color: rgb(0, 255, 98);
+}
+
+#backlink:hover {
+    color: darkred;
+}
