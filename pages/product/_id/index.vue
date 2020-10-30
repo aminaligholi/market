@@ -1,13 +1,14 @@
 <template>
-<div>
+  <div>
     <ProductDescription></ProductDescription>
-</div>
+  </div>
 </template>
 
 <script>
-export default {
+  export default {
 
-}
+  }
+
 </script>
 
 <style>
